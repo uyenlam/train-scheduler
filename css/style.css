@@ -1,0 +1,55 @@
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+a.brand-logo{
+	color: #d4af37;
+}
+footer.page-footer {
+	background-color: #c8963e; 
+	margin-top: 0;
+}
+
+div.row{
+	margin-bottom: 0px;
+}
+div#nav-area{
+	background-color: pink
+}
+div#chart-area{
+	padding: 20px;
+}
+
+.area{
+	border: 2px black;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+div#form-area{
+	padding: 10px;
+	margin-bottom: 0;
+}
+
+.header{
+	background-color: black;
+	color: #d4af37;
+	line-height: 300%;
+}
+.btn{
+	background-color: #d4af37;
+	color: black;
+	font-weight: bold;
+}
+
+label{
+	font-size: 1.0rem;
+	color: black;
+	font-weight: bold;
+}
+input[type=text], input[type=time], input[type=number]{
+	border-bottom: 1px solid #d4af37;
+}
